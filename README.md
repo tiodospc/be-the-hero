@@ -11,7 +11,10 @@ Node.js and ReactJS<br />
  
 Clone the repository in the local directory, in the terminal navigate to the frontend and backend folders run the <code>npm install</code> command, to install all project dependencies.
 
-** we need to react already installed -> [installation guide react](https://makandracards.com/reactjs-quick/52419-install-reactjs-windows)
+** we need to react and node.js already installed -> [installation guide react](https://makandracards.com/reactjs-quick/52419-install-reactjs-windows)<br />
+
+[installation Node.js](https://nodejs.org/en/)
+
 
 After that, it is possible to start an application by running the <code>npm start</code> command in both folders as beck and front.
 
