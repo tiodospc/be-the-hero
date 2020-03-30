@@ -1,5 +1,5 @@
 # be-the-hero
-Application developed in the rocketSeat OmniStack 11.0 week
+Application developed in the rocketSeat OmniStack 11.0 week<br/>
 application made for ONGs to register cases of incidents that need volunteers to help financially
 
 ## application made using
