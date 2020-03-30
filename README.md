@@ -13,7 +13,7 @@ Clone the repository in the local directory, in the terminal navigate to the fro
 
 ** we need to react and node.js already installed -> [installation guide react](https://makandracards.com/reactjs-quick/52419-install-reactjs-windows)<br />
 
-[installation Node.js](https://nodejs.org/en/)
+installation node.js -> [Node.js](https://nodejs.org/en/)
 
 
 After that, it is possible to start an application by running the <code>npm start</code> command in both folders as beck and front.
