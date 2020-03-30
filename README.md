@@ -4,7 +4,7 @@ application made for ONGs to register cases of incidents that need volunteers to
 
 ## application made using
 Node.js and ReactJS<br />
-mobile version available soon with React native
+<b>**mobile version available soon with React native</b>
 
 
 ## Installing  
