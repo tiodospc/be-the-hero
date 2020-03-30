@@ -2,6 +2,11 @@
 Application developed in the rocketSeat OmniStack 11.0 week
 application made for ONGs to register cases of incidents that need volunteers to help financially
 
+## application made using
+Node.js and ReactJS
+mobile version available soon with React native
+
+
 ## Installing  
  
 Clone the repository in the local directory, in the terminal navigate to the frontend and backend folders run the <code>npm install</code> command, to install all project dependencies.
