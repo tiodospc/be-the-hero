@@ -1,5 +1,6 @@
 # be-the-hero
 Application developed in the rocketSeat OmniStack 11.0 week
+application made for ONGs to register cases of incidents that need volunteers to help financially
 
 ## Installing  
  
@@ -19,4 +20,10 @@ To access click on <b>Não tenho cadastro</b> and fill in the text fields with O
 
 ![](https://github.com/tiodospc/be-the-hero/blob/master/cadastro.PNG)
 
-enter the system with the ID that the browser returned and click on Cadastrar Novo Caso fill in the fields and see them listed in the route / profile
+enter the system with the ID that the browser returned and click on Cadastrar Novo Caso fill in the fields and see them listed in the route /profile
+
+![](https://github.com/tiodospc/be-the-hero/blob/master/casocadastrado.PNG)
+
+![](https://github.com/tiodospc/be-the-hero/blob/master/listacasos.PNG)
+
+
