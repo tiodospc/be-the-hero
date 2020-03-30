@@ -3,11 +3,11 @@ Aplicação desenvolvida na semana OmniStack 11.0 do rocketSeat
 
 ## Instalação da aplicação desenvolvida 
  
-Clone o repositorio e navegue até as pastas de frontend e backend e execute o comando <code>npm install</code>, para instalar todas as dependência do projeto.
+Clone the repository in the local directory, in the terminal navigate to the frontend and backend folders run the <code>npm install</code> command, to install all project dependencies.
 
-** precisamos do react já instalado -> [guia de instalação do react](https://makandracards.com/reactjs-quick/52419-install-reactjs-windows)
+** we need to react already installed -> [installation guide react](https://makandracards.com/reactjs-quick/52419-install-reactjs-windows)
 
-Após isso podemos startar a aplicação executanto o comando npm start em ambas as pastas de beck e front, ao abrir a aplicação iriá de deparar com tela inicial do projeto.
+After that, it is possible to start an application by running the <code>npm start</code> command in both folders as beck and front, to open an application you will come across the project's initial screen.
 
 
 
