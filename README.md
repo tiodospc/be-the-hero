@@ -3,7 +3,7 @@ Application developed in the rocketSeat OmniStack 11.0 week<br/>
 application made for ONGs to register cases of incidents that need volunteers to help financially
 
 ## application made using
-Node.js and ReactJS<br />
+Node.js and React.JS<br />
 <b>**mobile version available soon with React native</b>
 
 
